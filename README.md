@@ -55,7 +55,7 @@ Required Python libraries:
 
 ```
 git clone https://github.com/AsjadAbbas995/Speech-To-Text-Chatbot.git
-cd YOUR_REPOSITORY
+cd <repo_link>
 ```
 
 ---
